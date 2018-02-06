@@ -1,0 +1,6 @@
+// To start uploading files for a game, a Unity Project must be made.  To do so, click the app icon.
+// Before you can use the actual app, a Product Plan must have been chosen.  Many options exist, but for testing, use Unity Personal.
+// Once you've followed Unity's process for downloading (if you don't have the app), click on the "New" button at the top right corner.
+// Name the project whatever you want, and click either 3D or 2D for the game you want to create (This will be based on 3D instructions).
+// Click the ... on the "Location" button and click the Repository you cloned from GitKraken (see "HowToUseGitKraken" for more details).
+// Press the light blue "Create a Project" button to create a new project.

@@ -1,0 +1,39 @@
+// 1. The Basic Setup
+
+// To start adding files from Unity to GitHub, a certain app known as GitKraken must be downloaded (don't worry, it's free).
+// To download GitKraken, go to "https://www.gitkraken.com/download" and click the "Download" button for whichever computer you use.
+// After following the steps for downloading, you should be able to open the app like any other.
+// Click on the tab that looks like a Folder in the upper left corner of the screen (or wherever it is on your device).
+// Click on the "Clone" tab and select "GitHub.com".  You will need to validate your account, so do as you need.
+// After the validation, a page with the words "Clone a Repo" at the top right should appear.  Select the repository you are using.
+// Press the blue "Browse" button in the top right hand corner of the page and select where you want the folder to go (I.E. Desktop).
+// Once you've chosen where to clone, press the green "Clone the Repo!" button.  Click the green "Open Now" to access the folder.
+// This page will be connected to the GitHub page and show you what files are in a given repository at the time in little tab lines.
+
+// 2. Committing Files
+
+// Whenever you create or update a file on your computer (I.E. lines of code, notes, etc.), a tab line labeled "// WIP" will appear.
+// This tab line will show you all the files that have been edited/added on the computer (and maybe on GitHub, not 100% sure).
+// To officially update these to the repository, they must be committed, otherwise it will not appear in any of the main files.
+// To commit these changes, highlight a file in the "Unstaged Files" box and press the green "Stage File" that pops up.
+// Alternatively, to stage multiple files at once, just click the "Stage All Changes" button in the top right hand corner.
+// On a side note, if you click on the file itself, the page itself will pop up and show you the before and after changes made to a file.
+// Once staged, click in the "Summary/Description" boxes to give a brief description of any additions or changes made.
+// By doing this, you will be able to keep track of any changes made if you don't remember what was done or see what others have done.
+// Finally, click the green "Commit Changes" button to finalize the commission.  You can also see the changes made after the commission.
+
+// 3. Pushing/Pulling Files
+
+// Whenever files are updated in one place or another, they don't automatically get added to all the connected sources.
+// To keep everything updated across all platforms, simply click on the "Push" or "Pull" buttons at the top of the page.
+// "Pushing" allows you send any files updated in GitKraken to GitHub whilst "Pulling" is the opposite (GitHub files brought to GitKraken).
+// ALWAYS PUSH/PULL BEFORE DOING ANYTHING ELSE!!!
+// You'll know when this process has worked if the "Master" branch shows both your Avatar and a picture of a computer next to each other.
+// Now, if something happens to either resource (computer gets damaged, no internet, etc.), you can still update with everything the same.
+
+// 4. Swithing Between Repos
+
+// To go between different repos on a whim, click the "Folder" button, select "Recently Opened" tab, and the repository you wish to go to.
+// If it is a brand new repository, repeat the cloning process from "The Basic Setup".
+
+// Now you should be ready to work on a project at your leisure!

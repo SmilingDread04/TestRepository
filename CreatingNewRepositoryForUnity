@@ -1,0 +1,5 @@
+// To create a new repository, while in "your profile", click the "Repositories" tab and then click the green "New" button.
+// When you enter the "Create a New Repository" page, name the Repository whatever you want and add a description if you want to.
+// Once these have been set, check the "Initialize this repository with a README" box and then click on the "Add .gitignore" tab.
+// When the filter pops up, type "Unity" and then click on the word once it pops up.  This helps GitHub ignore any unnecessary files.
+// Finally, click the green "Create Repository" button to make a new repository for Unity.

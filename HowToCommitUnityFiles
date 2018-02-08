@@ -6,6 +6,5 @@
 // Press the light blue "Create a Project" button to create a new project.
 // With the .gitignore file that was created at the beginning, you should be only getting 16 files for upstaging.
 // For the record, all these files will be listed as (Name of Repository)/ProjectSettings/(File's Name).asset, just to save on time.
-// If this doesn't work, and you get over 100 of these files, here's what you need to stage:
-// AudioManager, ClusterInputManager, DynamicsManager, EditorBuildSettings, EditorSettings GraphicsSettings, InputManager, NavMeshAreas...
-// ...NetworkManager, Physics2DSettings, ProjectSettings, ProjectVersion, QualitySettings, TagManager, TimeManager, & UnityConnectSettings
+// If this doesn't work, and you get over 100 of these files, make sure you added the extra line from CreatingNewRepositoryForUnity file.
+// Stage all these files in GitKraken and you should be good to go!

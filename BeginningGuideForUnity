@@ -1,0 +1,45 @@
+// When it comes to Unity, there's a lot you can do to add to a game, from dialogue activated via clicking to power ups adding to a total.
+// That being said, Unity can also overwhelm you if you don't know what to do, so here are a basic summary of some of the add ons:
+
+
+// 1. Creating C#/Java Script
+
+// To begin creating a game, all you need to do is click on the Assets folder, right-click in the box labeled "This Folder is Empty"
+// When you do, hold the mouse over the "Create" tab that shows up and click "C#" or "Java" (NOTE: Each one behaves in a different way).
+// When you create either scripts, this is what your files will look like upon creation:
+
+// C# SCRIPT
+
+// using System.Collections;
+// using System.Collections.Generic;
+// using UnityEngine;
+
+// public class NewBehaviourScript : MonoBehaviour {
+
+//	 // Use this for initialization
+//	 void Start () {
+		
+//	 }
+	
+//	 // Update is called once per frame
+//	 void Update () {
+		
+//	 }
+// }
+
+// JAVA SCRIPT
+
+// #pragma strict
+
+// function Start () {
+	
+// }
+
+// function Update () {
+	
+// }
+
+// For information on how to use each one, see (Insert C# URL here) & (Insert Java Script URL here).
+
+
+// 2. 

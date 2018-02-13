@@ -1,0 +1,26 @@
+// WARNING: BEFORE YOU START CODING, MAKE SURE YOU'VE DOWNLOADED THE VISUAL CODE STUDIO APPLICATION OR SOMETHING CLOSE, NOT NOTEPAD++
+// Whether you're using C# or Java Script, the same commands apply when it comes to coding, so here is basic definition of each:
+
+
+// 1. Command Types
+
+// Command Types are the commands that, no matter what is being used, fall under one of these categories:
+
+// String: A class that follows a sequence of characters
+// Integer: A class that represents a whole number (I.E. public int Heart; can now be used for a reference {Heart = 100})
+// Float: A class that represents a fractional (floating point) number (I.E. 3.14)
+// Print: A class that
+// =: Assign something to a certain value
+// ==: Check the equality
+// !=: Check the unequality
+// >=, >:
+// <=, >:
+
+
+// 2. Command Lines
+
+// Unity has thousands upon thousands of commands available from the beginning, and each one works in a certain way:
+
+// Awake():
+
+//

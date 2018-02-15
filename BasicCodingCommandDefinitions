@@ -10,6 +10,7 @@
 // Integer: A class that represents a whole number (I.E. public int Heart; can now be used for a reference {Heart = 100})
 // Float: A class that represents a fractional (floating point) number (I.E. 3.14)
 // Print: A class that
+// Void:
 // =: Assign something to a certain value
 // ==: Check the equality
 // !=: Check the unequality
@@ -21,6 +22,104 @@
 
 // Unity has thousands upon thousands of commands available from the beginning, and each one works in a certain way:
 
+// attribute:
 // Awake():
-
-//
+// checked:
+// class:
+// ctor:
+// cw:
+// do:
+// else:
+// enum:
+// equals:
+// exception:
+// fact:
+// for:
+// foreach:
+// forr:
+// FixedUpdate():
+// if:
+// ifd:
+// indexer:
+// interface:
+// invoke:
+// iterator:
+// iterindex:
+// lock:
+// LateUpdate()
+// mbox:
+// namespace:
+// OnAnimatorIK:
+// OnAnimatorMove:
+// OnApplicationFocus:
+// OnApplicationPause:
+// OnApplicationQuit:
+// OnAudioFilterRead:
+// OnBecameInvisible:
+// OnBecameVisible:
+// OnCollisionEnter:
+// OnCollisionEnter2D:
+// OnCollisionExit:
+// OnCollisionExit2D:
+// OnCollisionStay:
+// OnCollisionStay2D:
+// OnConnectedToServer:
+// OnControllerColliderHit:
+// OnDestroy:
+// OnDisable:
+// OnDisconnectedFromServer:
+// OnDrawGizmos:
+// OnDrawGizmosSelected:
+// OnEnable:
+// OnFailedToConnect:
+// OnFailedToConnectToMasterServer:
+// OnGUI:
+// OnJointBreak:
+// OnJointBreak2D:
+// OnMasterServerEvent:
+// OnMouseDown:
+// OnMouseDrag:
+// OnMouseEnter:
+// OnMouseExit:
+// OnMouseOver:
+// OnMouseUp:
+// OnMouseUpAsButton:
+// OnNetworkInstantiate:
+// OnParticleCollision:
+// OnParticleTrigger:
+// OnPlayerConnected:
+// OnPlayerDisconnected:
+// OnPostRender:
+// OnPreCull:
+// OnPreRender:
+// OnRenderImage:
+// OnRenderObject:
+// OnSerializeNetworkView:
+// OnServerInitialized:
+// OnTransformChildrenChanged:
+// OnTransformParentChanged:
+// OnTriggerEnte:
+// OnTriggerEnter2D:
+// OnTriggerExit:
+// OnTriggerExit2D:
+// OnTriggerStay:
+// OnTriggerStay2D:
+// OnValidate: 
+// OnWillRenderObject:
+// prop:
+// propfull:
+// propg:
+// region:
+// Reset():
+// sim:
+// struct:
+// svm:
+// switch:
+// Start():
+// try:
+// tryf:
+// unchecked:
+// unsafe:
+// using:
+// Update():
+// while:

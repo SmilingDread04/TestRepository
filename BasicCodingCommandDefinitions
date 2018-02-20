@@ -77,11 +77,11 @@
 // OnJointBreak:
 // OnJointBreak2D:
 // OnMasterServerEvent:
-// OnMouseDown:
-// OnMouseDrag:
-// OnMouseEnter:
-// OnMouseExit:
-// OnMouseOver:
+// OnMouseDown: Activates when the mouse button has been clicked on an object (I.E. clicking on a cube)
+// OnMouseDrag: Activates when the mouse button has been held down on an object (I.E. click and dragging an Illustrator shape)
+// OnMouseEnter: Activates when the mouse is hovering over an object (I.E. highlighting over an external link, adding an underline)
+// OnMouseExit: Activates after the mouse exits an object (I.E. underline disappears from the external link when hovered over)
+// OnMouseOver: Activates while the mouse is held over an object, after OnMouseEnter (I.E. holding mouse over bookmark for many seconds)
 // OnMouseUp:
 // OnMouseUpAsButton:
 // OnNetworkInstantiate:
@@ -98,7 +98,7 @@
 // OnServerInitialized:
 // OnTransformChildrenChanged:
 // OnTransformParentChanged:
-// OnTriggerEnte:
+// OnTriggerEnter:
 // OnTriggerEnter2D:
 // OnTriggerExit:
 // OnTriggerExit2D:

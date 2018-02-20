@@ -114,7 +114,7 @@
 // sim:
 // struct:
 // svm:
-// switch:
+// switch: (I.E. when you enter a password correctly and incorrectly)
 // Start():
 // try:
 // tryf:
@@ -123,3 +123,7 @@
 // using:
 // Update():
 // while:
+
+3. ???
+
+// abstract: Makes a ScriptableObject into another Monobehavior

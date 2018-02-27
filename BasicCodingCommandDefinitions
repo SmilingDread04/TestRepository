@@ -26,10 +26,10 @@
 // Awake():
 // checked:
 // class:
-// ctor:
+// ctor: Used as a shorthand for "constructor"
 // cw:
 // do:
-// else:
+// else: The second half of the "If-Else Clause", used 
 // enum:
 // equals:
 // exception:
@@ -38,7 +38,7 @@
 // foreach:
 // forr:
 // FixedUpdate():
-// if:
+// if: The first half of the "If-Else Clause", used
 // ifd:
 // indexer:
 // interface:
@@ -82,15 +82,15 @@
 // OnMouseEnter: Activates when the mouse is hovering over an object (I.E. highlighting over an external link, adding an underline)
 // OnMouseExit: Activates after the mouse exits an object (I.E. underline disappears from the external link when hovered over)
 // OnMouseOver: Activates while the mouse is held over an object, after OnMouseEnter (I.E. holding mouse over bookmark for many seconds)
-// OnMouseUp:
-// OnMouseUpAsButton:
-// OnNetworkInstantiate:
-// OnParticleCollision:
-// OnParticleTrigger:
-// OnPlayerConnected:
-// OnPlayerDisconnected:
-// OnPostRender:
-// OnPreCull:
+// OnMouseUp: Activates after the mouse button is released (I.E. clicking on external link takes user to different link)
+// OnMouseUpAsButton: Same as above, albeit released on same object clicked (I.E. external link works only when released on link)
+// OnNetworkInstantiate: Calls on objects connected via Network.Instantiate (I.E. s
+// OnParticleCollision: Activates when an object collides with other objects, often used for damage dealing (I.E. when an asteroid hits the ship in Asteroids)
+// OnParticleTrigger: 
+// OnPlayerConnected: Activates when the player connects to a server (I.E. logging onto any MMO server ever)
+// OnPlayerDisconnected: Activates when the player disconnects to a server (I.E. logging off of any MMO server ever)
+// OnPostRender: Activates after the camera renders the scene (I.E.
+// OnPreCull: Activates before a camera culls the scene (I.E.
 // OnPreRender:
 // OnRenderImage:
 // OnRenderObject:
@@ -123,7 +123,6 @@
 // using:
 // Update():
 // while:
-
 3. ???
 
 // abstract: Makes a ScriptableObject into another Monobehavior

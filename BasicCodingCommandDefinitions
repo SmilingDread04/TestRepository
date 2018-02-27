@@ -76,7 +76,7 @@
 // OnGUI:
 // OnJointBreak:
 // OnJointBreak2D:
-// OnMasterServerEvent:
+// OnMasterServerEvent: Activates when events are reported from the Master Server (I.E. relating holiday exclusive maps to all players) 
 // OnMouseDown: Activates when the mouse button has been clicked on an object (I.E. clicking on a cube)
 // OnMouseDrag: Activates when the mouse button has been held down on an object (I.E. click and dragging an Illustrator shape)
 // OnMouseEnter: Activates when the mouse is hovering over an object (I.E. highlighting over an external link, adding an underline)
@@ -91,8 +91,8 @@
 // OnPlayerDisconnected: Activates when the player disconnects to a server (I.E. logging off of any MMO server ever)
 // OnPostRender: Activates after the camera renders the scene (I.E.
 // OnPreCull: Activates before a camera culls the scene (I.E.
-// OnPreRender:
-// OnRenderImage:
+// OnPreRender: , only works if script is enabled and connected to a camera
+// OnRenderImage: 
 // OnRenderObject:
 // OnSerializeNetworkView:
 // OnServerInitialized:
@@ -111,9 +111,9 @@
 // propg:
 // region:
 // Reset():
-// sim:
+// sim: Shorthand for "static int Main"
 // struct:
-// svm:
+// svm: Shorthand for "static void Main"
 // switch: (I.E. when you enter a password correctly and incorrectly)
 // Start():
 // try:

@@ -51,28 +51,28 @@
 // namespace:
 // OnAnimatorIK:
 // OnAnimatorMove:
-// OnApplicationFocus:
-// OnApplicationPause:
-// OnApplicationQuit:
+// OnApplicationFocus: Activates when the player clicks out of the current application (I.E. pausing game when clicking on desktop)
+// OnApplicationPause: Activates when the player manually clicks the pause button (I.E. bringing up game menu with options and quit)
+// OnApplicationQuit: Activates when the player manually clicks the quit button (I.E. being taken back to the title screen)
 // OnAudioFilterRead:
-// OnBecameInvisible:
-// OnBecameVisible:
+// OnBecameInvisible: Activates when an object is no longer visible by any camera (I.E.
+// OnBecameVisible: Activates when an object is becomes visible by any camera (I.E.
 // OnCollisionEnter:
 // OnCollisionEnter2D:
 // OnCollisionExit:
 // OnCollisionExit2D:
 // OnCollisionStay:
 // OnCollisionStay2D:
-// OnConnectedToServer:
+// OnConnectedToServer: Activates when the player successfully connects to a server (I.E. MMO telling player which server they're in)
 // OnControllerColliderHit:
-// OnDestroy:
-// OnDisable:
-// OnDisconnectedFromServer:
+// OnDestroy: Activates when the object in question is destroyed (I.E. when Minion Bugs are destroyed in Galaga)
+// OnDisable: Activates when an object becomes inactive, can trigger after OnDestroy (I.E. Dæmons disappear from battle in Berseria)
+// OnDisconnectedFromServer: Activates when the player loses connection to server (I.E. Dissidan NT connection error in middle of game)
 // OnDrawGizmos:
 // OnDrawGizmosSelected:
-// OnEnable:
-// OnFailedToConnect:
-// OnFailedToConnectToMasterServer:
+// OnEnable: Activates when an object becomes active (I.E.
+// OnFailedToConnect: Activates when the player fails to connect to a server (I.E. Fire Emblem Heroes server connection error)
+// OnFailedToConnectToMasterServer: Activates when player can't connect to main server (I.E. Tales of Link connection error via update)
 // OnGUI:
 // OnJointBreak:
 // OnJointBreak2D:
@@ -85,7 +85,7 @@
 // OnMouseUp: Activates after the mouse button is released (I.E. clicking on external link takes user to different link)
 // OnMouseUpAsButton: Same as above, albeit released on same object clicked (I.E. external link works only when released on link)
 // OnNetworkInstantiate: Calls on objects connected via Network.Instantiate (I.E. s
-// OnParticleCollision: Activates when an object collides with other objects, often used for damage dealing (I.E. when an asteroid hits the ship in Asteroids)
+// OnParticleCollision: Activates when an object collides with others, often used for damage dealing (I.E. the asteroids in Asteroids)
 // OnParticleTrigger: 
 // OnPlayerConnected: Activates when the player connects to a server (I.E. logging onto any MMO server ever)
 // OnPlayerDisconnected: Activates when the player disconnects to a server (I.E. logging off of any MMO server ever)
@@ -123,6 +123,14 @@
 // using:
 // Update():
 // while:
-3. ???
+
+// 3. ???
 
 // abstract: Makes a ScriptableObject into another Monobehavior
+
+// 4. Coding Parameters
+
+// Channels:
+// data:
+// hasFocus:
+// pauseStatus:

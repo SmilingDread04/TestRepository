@@ -127,6 +127,7 @@
 // 3. ???
 
 // abstract: Makes a ScriptableObject into another Monobehavior
+// other: A placeholder for an object
 
 // 4. Coding Parameters
 

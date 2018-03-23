@@ -18,7 +18,7 @@
 // <=, >:
 
 
-// 2. Command Scripts
+// 2. Visible Command Scripts
 
 // Unity has thousands upon thousands of commands available from the beginning, and each one works in a certain way:
 
@@ -30,7 +30,7 @@
 // cw:
 // do:
 // else: The second half of the "If-Else Clause", used 
-// enum:
+// enum: , used for storing predefined values from a finite list
 // equals:
 // exception:
 // fact:
@@ -124,9 +124,13 @@
 // Update():
 // while:
 
-// 3. ???
+// 3. Invisible Command Scripts
 
 // abstract: Makes a ScriptableObject into another Monobehavior
+// GetKeyDown:
+// GetKeyUp:
+// Input:
+// KeyCode:
 // other: A placeholder for an object
 
 // 4. Coding Parameters

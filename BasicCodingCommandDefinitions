@@ -8,7 +8,7 @@
 
 // String: A class that follows a sequence of characters
 // Integer: A class that represents a whole number (I.E. public int Heart; can now be used for a reference {Heart = 100})
-// Float: A class that represents a fractional (floating point) number (I.E. 3.14)
+// Float: A class that represents a fractional (floating point) number (I.E. public float speed = 3.14F)
 // Print: A class that
 // Void:
 // =: Assign something to a certain value
@@ -126,11 +126,19 @@
 
 // 3. Invisible Command Scripts
 
+// Command Scripts that exist in Unity, but aren't always visible (depends on which version is downloaded)
+
+// [CreateAssetMenu]:
 // abstract: Makes a ScriptableObject into another Monobehavior
+// deltaTime:
 // GetKeyDown:
-// GetKeyUp:
+// GetKeyUp: Activates after the button is pressed (I.E. (Input.GetKey(KeyCode.JoystickButton3)) = after Triangle button is released)
 // Input:
-// KeyCode:
+// KeyCode: Tells the console to perform an action when the button is pressed (I.E. (Input.GetKey(KeyCode.L)) = when "L" key is pressed)
+// moveDirection:
+// moveDirection.x: , can make the object move on the X-Axis
+// moveDirection.y: , can make the object move on the Y-Axis
+// moveDirection.y: , can make the object move on the Z-Axis
 // other: A placeholder for an object
 
 // 4. Coding Parameters

@@ -126,20 +126,23 @@
 
 // 3. Invisible Command Scripts
 
-// Command Scripts that exist in Unity, but aren't always visible (depends on which version is downloaded)
+// Command Scripts that exist in Unity, but aren't always visible (depends on which version is downloaded):
 
 // [CreateAssetMenu]:
 // abstract: Makes a ScriptableObject into another Monobehavior
-// deltaTime:
-// GetKeyDown:
+// CharacterController:
+// GetKeyDown: Activates once the button is pressed (I.E. (Input.GetKey(KeyCode.Space)) = when the Space Bar is pressed)
 // GetKeyUp: Activates after the button is pressed (I.E. (Input.GetKey(KeyCode.JoystickButton3)) = after Triangle button is released)
 // Input:
-// KeyCode: Tells the console to perform an action when the button is pressed (I.E. (Input.GetKey(KeyCode.L)) = when "L" key is pressed)
+// KeyCode: Tells the console to perform an action when the button is used (I.E. (Input.GetKey(KeyCode.L)) = when "L" key is used)
 // moveDirection:
 // moveDirection.x: , can make the object move on the X-Axis
 // moveDirection.y: , can make the object move on the Y-Axis
 // moveDirection.y: , can make the object move on the Z-Axis
 // other: A placeholder for an object
+// Time.deltaTime: , makes the frame rate independent from the game itself (I.E.
+// Transform.TransformDirection: 
+// Vector3: 
 
 // 4. Coding Parameters
 

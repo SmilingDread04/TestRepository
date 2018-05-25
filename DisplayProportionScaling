@@ -1,0 +1,9 @@
+//Unity has a variety of scaling proportions depending on how you want players to see the game, which is changeable from the Game Display.
+//Listed down below are the (rough) estimations I tested when using their Ascpect Ratios.
+
+//5 by 4: 12.5 x 10
+//4 by 3: 13.3 x 10
+//3 by 2: 14.95 x 10
+//16 by 10: 16 x 10
+//16 by 9: 17.8 x 10
+//Standalone (1024 x 768): 13.3 x 10
